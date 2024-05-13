@@ -25,7 +25,7 @@ Use the information provided to present information in a clear, concise and visu
 
 
 
-Process
+**Process**
 
 
 Data Preparation
