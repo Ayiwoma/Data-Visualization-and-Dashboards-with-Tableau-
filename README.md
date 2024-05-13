@@ -28,17 +28,19 @@ Use the information provided to present information in a clear, concise and visu
 **Process**
 
 
-Data Preparation
+1. Data Preparation
 
-Import the dataset into Tableau, which includes the name of the airbnb, the property type, room type, beds, price and other relevant data.
+   Imported the dataset into Tableau, which includes the name of the airbnb, the property type, room type, beds, price and other relevant data.
 
-Data exploration
+2. Data exploration
 
-Explore the data to view the details provided by using data source provided in Tableau.
+   Explored the data to view the details provided by using data source provided in Tableau.
 
-Creating data visualization
+3. Creating data visualization
 
-Use charts, graphs, maps, 
+   Used charts, graphs, maps to present data retrieved and prepared to showcase information.
+
+
 
 
 
