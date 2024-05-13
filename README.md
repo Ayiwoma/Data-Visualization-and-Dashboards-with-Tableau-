@@ -46,7 +46,7 @@ Use the information provided to present information in a clear, concise and visu
 3. Creating data visualization
    
 
-   Used charts, graphs, maps to present data retrieved and prepared to showcase information.
+   Used charts, graphs, maps to present data retrieved and prepared to showcase this information on tableau.
 
 
 
