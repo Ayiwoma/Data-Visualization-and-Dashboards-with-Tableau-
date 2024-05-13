@@ -59,6 +59,8 @@ Use the information provided to present information in a clear, concise and visu
 
 The results from this project showed how data was connected by using different data types.
 
+
+
 1. Show the neighbourhood, combined with the zipcode with the highest prices 
 
    One of the worksheet contained the Map data visuals by combining, zipcode and neighbourhood.
@@ -90,6 +92,10 @@ The results from this project showed how data was connected by using different d
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/435c370b-19a9-4af6-854a-715e1dec8ec9)
 
 
+
+    Tableau Dashbord
+
+    https://public.tableau.com/app/profile/ayiwoma.anwasia/viz/practicestory_17154032168170/AirBnDNYC?publish=yes
 ## Challenges 
 
 
