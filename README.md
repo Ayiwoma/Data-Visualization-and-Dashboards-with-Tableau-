@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 Overview
 
-This project aims to explore and utilize data Visualization and Dashboards with Tableau for comprehensive data analysis. The project seeks to reach into various types of ways to derive actionable insights from data. It uses the data provided in this case AirBnB with listings in New York City to generate how customers use their products and the analysis the capacity to gain an accurate and deep understanding on why these choices are made.
+This project aims to explore and utilize data Visualization and Dashboards with Tableau for comprehensive data analysis. The project seeks to reach into various types of ways to derive actionable insights from data. It uses the data provided in this case AirBnB with listings in New York City to generate how customers use their products and analysizes the capacity to gain an accurate and deep understanding on why these choices are made.
 
 
 
