@@ -35,8 +35,10 @@ Use the information provided to present information in a clear, concise and visu
 1. Data Preparation
    
 
-   Imported the dataset into Tableau, which includes the name of the airbnb, the property type, room type, beds, 
-   price and other relevant data.
+   This involved getting the dataset, converting to a data source supported by Tableau, imported the dataset into 
+   Tableau, which includes the name of the airbnb, the property type, room type, beds, price and other relevant 
+   data.
+
 
 
 2. Data exploration
@@ -45,10 +47,38 @@ Use the information provided to present information in a clear, concise and visu
    Explored the data to view the details provided by using data source provided in Tableau.
 
 
-3. Creating data visualization
+   
+3. Data Cleaning
+
+   Perform necessary data cleaning tasks such as
+  
+   Handled missing values by filtering out and replacing missing values using Tableau's data preparation tools.
+
+   Removed duplicates records from the data.
+   
+   Standardizied data formats by ensuring that data types are consistent across columns.
+   
+   Renamed fields to make them more understandable or consistent.
+
    
 
-   Used charts, graphs, maps to present data retrieved and prepared to showcase this information on tableau.
+4. Data Transformation
+
+
+   Transfrom the data by combining multiple fields and grouping data into creating meaningful categories.
+   
+   Used aggregation data at different levesl using different functions like SUM, Quartile, Max and Min.
+
+5. Data Validation
+
+   Validated data to ensure ensure accuracy and consistency, while checking for outliers, anomalies and 
+   discrepancies that will affect the analysis of the data used.
+
+6. Creating data visualization
+   
+   Once the data is ready, then several tools like charts, graphs, maps to present data retrieved and prepared to 
+   showcase this information on tableau. This will be used to create different views and analyze trends and 
+   patterns
 
 
 
