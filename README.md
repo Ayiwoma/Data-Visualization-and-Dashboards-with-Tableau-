@@ -63,29 +63,35 @@ The results from this project showed how data was connected by using different d
 
 1. Show the neighbourhood, combined with the zipcode with the highest prices 
 
-   One of the worksheet contained the Map data visuals by combining, zipcode and neighbourhood.
+
+   One of the worksheet contained the Map data visuals by combining price, zipcode and neighbourhood.
+   This map was chosen to showcase the geographical location of this data, by showing the location Map visuals 
+   will enable users to zoom in and out of the location, The color code used from red to green, with red showing 
+   the lower end of the price and green showing the higher end of the price. Choosing map also makes the data 
+   visualing appealing and enables them to see the New York City locations of the AirBnB at a glance.
+ 
 
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/2bda05ff-b4ab-44fc-8514-2e22ba55d03a)
 
 
-2. Use Line graph to show the AirBnB host since 2009, the top X customers and their price range,
+3. Use Line graph to show the AirBnB host since 2009, the top X customers and their price range,
    this data showed that the highest price point was in 2014.
 
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/0c497af3-5093-4c74-b338-0792fc6d2514)
 
    
-3. Use the trend of past number of beds and price to forecast the trend with scatter plot to show that where clients will rent airbnb in the future as that has been the      trend in past as the concentration is in the lefthand corner of the chart.
+4. Use the trend of past number of beds and price to forecast the trend with scatter plot to show that where clients will rent airbnb in the future as that has been the      trend in past as the concentration is in the lefthand corner of the chart.
 
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/0a72df9b-c570-4445-9855-392c71dc42c3)
 
 
-4. In comparing the data set and identifying outliers, a box plot was used to show the concentration of rentals across room type and prices.
+5. In comparing the data set and identifying outliers, a box plot was used to show the concentration of rentals across room type and prices.
 
 
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/8ff56449-c49b-4310-aa22-f3f134e12be0)
 
 
-5. A bar chart was used to show how number of rooms compared to prices, some rooms rented for less and some rooms rented for more,
+6. A bar chart was used to show how number of rooms compared to prices, some rooms rented for less and some rooms rented for more,
    which showed that the price was not a determining factor when it compared to number of rooms rented.
 
 
