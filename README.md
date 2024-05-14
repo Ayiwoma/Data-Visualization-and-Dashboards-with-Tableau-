@@ -69,18 +69,23 @@ The results from this project showed how data was connected by using different d
    will enable users to zoom in and out of the location, The color code used from red to green, with red showing 
    the lower end of the price and green showing the higher end of the price. Choosing map also makes the data 
    visualing appealing and enables them to see the New York City locations of the AirBnB at a glance.
- 
+
+   
 
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/2bda05ff-b4ab-44fc-8514-2e22ba55d03a)
 
 
-3. Use Line graph to show the AirBnB host since 2009, the top X customers and their price range,
-   this data showed that the highest price point was in 2014.
+2. Using Line graph was another way to showcase this data, this combined the AirBnB hosts since 2009, the top X 
+   customers and their price range, this chart enabled the data to show that the highest price point was in 2014, 
+   it also showed the trend of rentals from the different hosts. This line graph can also be used to project 
+   future trends thereby making informed decisions based on predicitive analytics because it combines three data 
+   types.
 
+    
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/0c497af3-5093-4c74-b338-0792fc6d2514)
 
    
-4. Use the trend of past number of beds and price to forecast the trend with scatter plot to show that where clients will rent airbnb in the future as that has been the      trend in past as the concentration is in the lefthand corner of the chart.
+3. Use the trend of past number of beds and price to forecast the trend with scatter plot to show that where clients will rent airbnb in the future as that has been the      trend in past as the concentration is in the lefthand corner of the chart.
 
    ![image](https://github.com/Ayiwoma/Data-Visualization-and-Dashboards-with-Tableau-/assets/141646278/0a72df9b-c570-4445-9855-392c71dc42c3)
 
