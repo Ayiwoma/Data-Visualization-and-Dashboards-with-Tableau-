@@ -3,7 +3,19 @@ Overview
 
 This project aims to explore and utilize data Visualization and Dashboards with Tableau for comprehensive data analysis. The project seeks to reach into various types of ways to derive actionable insights from data. It uses the data provided in this case AirBnB with listings in New York City to generate how customers use their products and analysizes the capacity to gain an accurate and deep understanding on why these choices are made.
 
+The business should be looked at from all angles, some of which include
 
+1. The location, room type and property type with the highest and lowest prices and
+   the margin to be made from each or a combination of two or more of the different types of data.
+
+2. The outliers should be noted because they have unique features and cannot be compared based one just one 
+   feature alone.
+
+3. Taking note of the cost to maintain a location should also be a factor to consider when making decisions that 
+   will affect the profit from each AirBnB host.
+
+4. Other categories that might not involve the features provided which can contribute to expected margins should 
+   be factored into the analysis 
 
 ## Project/Goals
 
